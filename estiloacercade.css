@@ -1,0 +1,60 @@
+
+/* boton pagina principal*/
+
+ .inicio{
+     font-weight: bold;
+     border: solid 1px black;
+     background-color: #43C6AC  ;
+     position: absolute;
+     top: 30px;
+     height: 20px;
+     width: 115px;
+     left: 80px;
+     
+}
+
+ .inicio:hover{
+    height: 22px; width: 117px;
+    padding: 2px;
+    background-color: #17A589;
+}
+
+.linkinicio:hover{
+    color: #D1F2EB;
+}
+
+/* boton pagina principal*/
+
+/* body */
+
+.pacerca{
+    position: absolute;
+    top: 220px;
+    left: 550px;
+    height: 500px;
+    width: 550px;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+
+}
+
+.imagenacerca{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+
+
+.logo2:hover{
+    height: 315px;
+       
+}
+
+.Fondo{
+   
+    background-image: linear-gradient(to left, #43C6AC,#fffcdc);
+
+} 
+
+/* body */
